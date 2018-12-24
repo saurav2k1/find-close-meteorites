@@ -11,4 +11,4 @@ Alternate option
 
 First install pipenv and the Running
 `pipenv install`
-`pipenv run "Python Distance_calculation.py"`
+`pipenv run "Python meteor\Distance_calculation.py"`
